@@ -1,2 +1,0 @@
-# jpwebapp
-WebApp Challenge
